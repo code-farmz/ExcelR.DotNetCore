@@ -1,5 +1,5 @@
 # ExcelR.DotNetCore 
-
+[![NuGet Version](https://img.shields.io/badge/nuget-v1.0.0-blue.svg)](https://www.nuget.org/packages/ExcelR.Dotnetcore/) 
 Simple dotnet core library contains  to create/read xlsx/csv files in an easy way.
 
 # Why ExcelR

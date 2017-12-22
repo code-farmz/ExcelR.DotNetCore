@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>Simple dotnet core library contains  to create/read xlsx/csv files in an easy way.</Description>
+    <Authors>Jitender Kundu</Authors>
+    <Company>ExcelR</Company>
   </PropertyGroup>
 
   <ItemGroup>
