@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelR.DotNetCore", "ExcelR.DotNetCore\ExcelR.DotNetCore.csproj", "{30E24B68-A217-4580-AB54-5ED95A112FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelR.DotNetCore.Test", "ExcelR.DotNetCore.Test\ExcelR.DotNetCore.Test.csproj", "{767A3F90-6F93-4E78-978B-47A8854AA4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E24B68-A217-4580-AB54-5ED95A112FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E24B68-A217-4580-AB54-5ED95A112FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E24B68-A217-4580-AB54-5ED95A112FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E24B68-A217-4580-AB54-5ED95A112FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767A3F90-6F93-4E78-978B-47A8854AA4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767A3F90-6F93-4E78-978B-47A8854AA4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767A3F90-6F93-4E78-978B-47A8854AA4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767A3F90-6F93-4E78-978B-47A8854AA4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F92DD6-FD08-4259-8C04-F464489D5089}
+	EndGlobalSection
+EndGlobal
